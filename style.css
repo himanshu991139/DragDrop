@@ -1,0 +1,25 @@
+.section-learn
+{
+    background-color: orangered;
+    
+}
+.section-manage
+{
+    background-color: #ff9100;
+    margin-top: 0px !important;
+}
+.section-thrive
+{
+    margin-top: 0px !important;
+    background-color: green;
+}
+.section-inner
+{
+    padding: 20px;
+    
+}
+.heading
+{
+    margin-top: 20px;
+    color: white;
+}
